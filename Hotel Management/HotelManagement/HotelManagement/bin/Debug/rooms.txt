@@ -1,5 +1,5 @@
 15;kitchen;3;150,67;True;Kaloyan
-13;kitchen;4;156,79;False;No one
+13;kitchen;4;156,79;False;    
 12;Dining room;8;267,89;True;Iliyan
-34;Bedroom;2;132,43;False;No one
+34;Bedroom;2;132,43;False;     
 45;Bathroom;3;145,93;True;Daniel
