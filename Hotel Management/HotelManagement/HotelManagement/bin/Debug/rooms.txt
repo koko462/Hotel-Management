@@ -1,5 +1,6 @@
-15;kitchen;3;150,67;True;Kaloyan
-13;kitchen;4;156,79;False;    
-12;Dining room;8;267,89;True;Iliyan
-34;Bedroom;2;132,43;False;     
-45;Bathroom;3;145,93;True;Daniel
+15;Single;1;150,67;true;Kaloyan
+13;Double;2;156,82;False;         
+12;Triple;3;267,89;True;Iliyan
+34;Quadra;4;132,43;False;   
+45;Penta;5;145,93;True;Daniel
+46;Apartment;2;500000;False;             
