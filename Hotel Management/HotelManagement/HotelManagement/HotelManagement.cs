@@ -142,11 +142,11 @@ namespace HotelManagement
             {
                 Console.WriteLine("Стаята е вече заета от гост. Операцията е прекратена.");
                 return;
-            }       
+            }
 
             Console.Write("Въведете име на госта: ");
             string guestName = Console.ReadLine();
-           
+
             room.Occupied = true;
             room.GuestName = guestName;
 
@@ -231,7 +231,6 @@ namespace HotelManagement
             {
                 Console.WriteLine("Няма заети стаи в момента.");
             }
-      
         }
     }
 }

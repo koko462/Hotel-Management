@@ -1,6 +1,6 @@
-15;Single;1;150,67;True;Kaloyan
-13;Double;2;156,82;False;
-12;Triple;3;267,89;True;Iliyan
-34;Quadra;4;132,43;False;
-45;Penta;5;145,93;True;Teodor
-46;Apartment;2;500000;False;
+34;single room;1;200;True;Kaloyan Ganev
+35;double room;2;300;False;
+36;triple room;3;450;True;Dimitar Dimitrov
+37;single room;1;500;False;
+38;double room;2;690;True;Daniel Marinov
+39;triple room;3;895;False;

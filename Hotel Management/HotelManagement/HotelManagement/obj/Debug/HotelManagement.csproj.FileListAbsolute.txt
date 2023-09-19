@@ -1,8 +1,8 @@
-E:\Hotel Management\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
-E:\Hotel Management\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
-E:\Hotel Management\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
-E:\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
-E:\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.SuggestedBindingRedirects.cache
-E:\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
-E:\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
-E:\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+E:\Programs\School Projects\Hotel Management\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+E:\Programs\School Projects\Hotel Management\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+E:\Programs\School Projects\Hotel Management\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+E:\Programs\School Projects\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+E:\Programs\School Projects\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.SuggestedBindingRedirects.cache
+E:\Programs\School Projects\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+E:\Programs\School Projects\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+E:\Programs\School Projects\Hotel Management\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
